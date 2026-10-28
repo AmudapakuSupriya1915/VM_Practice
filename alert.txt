@@ -1,1 +1,1 @@
-Device status: critical
+Device status: maintenance
